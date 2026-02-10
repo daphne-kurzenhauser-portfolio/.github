@@ -10,4 +10,4 @@ Last updated Feb 9. 2026.
 
 ### Bare-metal applications
 
-micro:bit v2: - [Game of Life](https://github.com/daphne-kurzenhauser-portfolio/mbv2-game-of-life) | [Bubble Leveler](https://github.com/daphne-kurzenhauser-portfolio/mbv2-bubble-leveler)
+- *micro:bit v2:* [Game of Life](https://github.com/daphne-kurzenhauser-portfolio/mbv2-game-of-life) | [Bubble Leveler](https://github.com/daphne-kurzenhauser-portfolio/mbv2-bubble-leveler)
